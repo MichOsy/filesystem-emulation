@@ -4,7 +4,7 @@ import time
 import random
 
 
-filesystem_path = "filesystem.json"
+filesystem_path = "filesystem3.json"
 current_location = "/"
 current_user = None
 filesystem = {
