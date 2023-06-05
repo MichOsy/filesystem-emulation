@@ -2,7 +2,7 @@ import json
 import os
 
 
-filesystem_path = "filesystem.json"
+filesystem_path = "filesystem2.json"
 current_location = "/"
 current_user = None
 filesystem = {
